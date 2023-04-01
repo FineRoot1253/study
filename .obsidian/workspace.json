@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "fa9edd3df521412a",
+    "type": "split",
+    "children": [
+      {
+        "id": "379cadcfbd558c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf5d74b9a6fb8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a59439eec422b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a981692485367b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c26ef6c2f7a70ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/6. 스택.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95fc58c37e9722b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d50095fc7b556c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356af455fbc8ae96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcf3b971ea9e53b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unique_ptr",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f321294b7323bee0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38e52d7ffbf6ca1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fde6a9c0e934067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e302ce1b5c5ca875",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0a41ccb9f9d1df9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce9e2dac8edb4455",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9aac78380a35f23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5813aa4132880d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Data Structure with C++ language/7. 큐.md"
+              }
+            }
+          },
+          {
+            "id": "624c746990f1b5be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbe8433925380aa4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c58f98114af53c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e62db76117f201e",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false
+    }
+  },
+  "active": "bdf5d74b9a6fb8fa",
+  "lastOpenFiles": [
+    "스크린샷 2023-03-26 오전 10.53.11.png",
+    "Computer Science/Data Structure with C++ language/6. 스택.md",
+    "Computer Science/Data Structure with C++ language/7. 큐.md",
+    "Computer Science/Data Structure with C++ language/5. 연결 리스트 Ⅲ.md",
+    "Languages/JAVA/자바의 정석/객체지향 프로그래밍 Ⅰ.md",
+    "Study/Spring/Readme.md",
+    "Study/Spring/Spring.md",
+    "Study/Software Architecture/Software Development Process, SDLC.md",
+    "Study/Software Architecture/DDD, Domain Driven Development.md",
+    "Study/Software Architecture/Distributed Architecture.md",
+    "Study/Software Architecture/Readme.md",
+    "Study/My Coding Standard/Readme.md",
+    "Study/Design Pattern/GOF design pattern/GOF design pattern.md",
+    "Study/Infrastructure/Github/Obsidian 공개용 레포 구성하기 🌳.md",
+    "Study/My Coding Standard/객체 지향과 디자인 패턴.md",
+    "Study/Mathematics/Readme.md",
+    "Study/Languages/Go Language/Readme.md",
+    "Study/Languages/JAVA/Readme.md",
+    "Study/Languages/Go Language/go-talk/UseCase[go-talk].md",
+    "Study/Languages/Go Language/go-talk/talker-go 배포 설정.md",
+    "Study/Languages/Go Language/go-talk/Ports.md",
+    "Study/Languages/Go Language/go-talk/e24d9680-e94d-11e9-977a-54046597cf22.png",
+    "Study/Languages/Go Language/go-talk/chat_server_api 디테일.md",
+    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/로그인.md",
+    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/상품 관리.md",
+    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/장바구니 관리.md",
+    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/주문 관리.md",
+    "Study/Database/File Organization/Untitled.png",
+    "shared/Study/refs/heads/main",
+    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.idx",
+    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.pack",
+    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.keep",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.idx",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.pack",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.keep",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/tmp_pack_HZ8szR",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack",
+    "shared/Study/objects/tmp_objdir-incoming-eBVnhB",
+    "Study/Nodejs/OAuth/Untitled 6.png",
+    "Study/Nodejs/OAuth/Untitled 5.png",
+    "Study/Nodejs/OAuth/Untitled 3.png",
+    "Study/Nodejs/OAuth/Untitled 2.png",
+    "Study/Nodejs/OAuth/Untitled 1.png",
+    "Study/Nodejs/OAuth/Untitled.png",
+    "스크린샷 2023-03-31 오후 1.19.39.png",
+    "스크린샷 2023-03-31 오전 10.26.43.png",
+    "Untitled.canvas"
+  ]
+}
