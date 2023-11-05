@@ -11,12 +11,8 @@
             "id": "bdf5d74b9a6fb8fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,28 +25,28 @@
             "id": "78a981692485367b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c26ef6c2f7a70ed5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Structure with C++ language/6. 스택.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bafc3647f1791888",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,12 +91,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4db2d2f7384aedd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "38e52d7ffbf6ca1d",
@@ -116,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structure with C++ language/7. 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Data Structure with C++ language/7. 큐.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -219,54 +219,54 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "bdf5d74b9a6fb8fa",
+  "active": "3e62db76117f201e",
   "lastOpenFiles": [
-    "스크린샷 2023-03-26 오전 10.53.11.png",
-    "Computer Science/Data Structure with C++ language/6. 스택.md",
-    "Computer Science/Data Structure with C++ language/7. 큐.md",
-    "Computer Science/Data Structure with C++ language/5. 연결 리스트 Ⅲ.md",
-    "Languages/JAVA/자바의 정석/객체지향 프로그래밍 Ⅰ.md",
-    "Study/Spring/Readme.md",
-    "Study/Spring/Spring.md",
-    "Study/Software Architecture/Software Development Process, SDLC.md",
-    "Study/Software Architecture/DDD, Domain Driven Development.md",
-    "Study/Software Architecture/Distributed Architecture.md",
-    "Study/Software Architecture/Readme.md",
-    "Study/My Coding Standard/Readme.md",
-    "Study/Design Pattern/GOF design pattern/GOF design pattern.md",
-    "Study/Infrastructure/Github/Obsidian 공개용 레포 구성하기 🌳.md",
-    "Study/My Coding Standard/객체 지향과 디자인 패턴.md",
-    "Study/Mathematics/Readme.md",
-    "Study/Languages/Go Language/Readme.md",
-    "Study/Languages/JAVA/Readme.md",
-    "Study/Languages/Go Language/go-talk/UseCase[go-talk].md",
-    "Study/Languages/Go Language/go-talk/talker-go 배포 설정.md",
-    "Study/Languages/Go Language/go-talk/Ports.md",
-    "Study/Languages/Go Language/go-talk/e24d9680-e94d-11e9-977a-54046597cf22.png",
-    "Study/Languages/Go Language/go-talk/chat_server_api 디테일.md",
-    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/로그인.md",
-    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/상품 관리.md",
-    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/장바구니 관리.md",
-    "Study/Languages/Go Language/go-talk/UseCase(go-talk)/주문 관리.md",
-    "Study/Database/File Organization/Untitled.png",
-    "shared/Study/refs/heads/main",
-    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.idx",
-    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.pack",
-    "shared/Study/objects/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.keep",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.idx",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.pack",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/pack-82c6ccbaaa33dbe4e890e42d33a6ae81baf4daa9.keep",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack/tmp_pack_HZ8szR",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB/pack",
-    "shared/Study/objects/tmp_objdir-incoming-eBVnhB",
-    "Study/Nodejs/OAuth/Untitled 6.png",
-    "Study/Nodejs/OAuth/Untitled 5.png",
-    "Study/Nodejs/OAuth/Untitled 3.png",
-    "Study/Nodejs/OAuth/Untitled 2.png",
-    "Study/Nodejs/OAuth/Untitled 1.png",
-    "Study/Nodejs/OAuth/Untitled.png",
-    "스크린샷 2023-03-31 오후 1.19.39.png",
-    "스크린샷 2023-03-31 오전 10.26.43.png",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/5.미적분의 기본원리.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/4. 정적분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/3. 부정적분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2. 미분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/1. 극한.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/Untitled.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/4.미적분의 기본원리.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/3. 정적분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2. 부정적분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2..md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/1. 미분.md",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분",
+    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/Untitled",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-416E-8DA1-23-0.jpeg",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-439B-BF7C-0D-0.jpeg",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4438-8A29-18-0.jpeg",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-41C9-8224-6C-0.jpeg",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4A6A-8BD3-1C-0.jpeg",
+    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4718-BF4A-1D-0.jpeg",
+    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4718-BF4A-1D-0.jpeg",
+    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4E9B-BB97-60-0.jpeg",
+    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4D8D-BD24-46-0.jpeg",
+    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4D67-96BB-29-0.jpeg",
+    "방송통신대학교/데이터베이스 시스템/3. 관계형 모델.md",
+    "방송통신대학교/데이터베이스 시스템/2. 데이터베이스 모델링.md",
+    "Computer Science/Data Structure with C++ language/8. 트리.md",
+    "Languages/JAVA/자바의 정석/9. java.lang 패키지와 유용한 클래스/java.lang 패키지와 유용한 클래스.md",
+    "Languages/JAVA/자바의 정석/11. 컬렉션 프레임워크/컬렉션 프레임워크.md",
+    "Languages/JAVA/자바의 정석/4. 조건문과 반복문/조건문과 반복문.md",
+    "Languages/JAVA/자바의 정석/12. 제네릭스, 열거형, 애너테이션/제네릭스, 열거형, 애너테이션.md",
+    "Languages/JAVA/자바의 정석/15. 입출력/입출력 (IO).md",
+    "Languages/JAVA/자바의 정석/8. 예외 처리/예외 처리.md",
+    "Languages/JAVA/자바의 정석/13. 쓰레드/스레드.md",
+    "Languages/JAVA/자바의 정석/14. 람다와 스트림/람다와 스트림.md",
+    "Languages/JAVA/자바의 정석/10. 날짜와 시간 & 형식화/날짜, 시간, 형식화.md",
+    "Languages/JAVA/자바의 정석/16. 네트워킹/네트워킹.md",
+    "Languages/JAVA/자바의 정석/16. 네트워킹",
+    "Languages/JAVA/자바의 정석/Untitled",
+    "Languages/JAVA/자바의 정석/15. 입출력",
+    "Languages/JAVA/자바의 정석/14. 람다와 스트림",
+    "Languages/JAVA/자바의 정석/13. 쓰레드",
+    "Languages/JAVA/자바의 정석/12. 제네릭스, 열거형, 애너테이션",
+    "Languages/JAVA/자바의 정석/11. 컬렉션 프레임워크",
+    "Languages/JAVA/자바의 정석/10. 날짜와 시간 & 형식화",
+    "Languages/JAVA/자바의 정석/7. 객체지향 프로그래밍 Ⅱ/추상클래스.md",
+    "Languages/JAVA/자바의 정석/7. 객체지향 프로그래밍 Ⅱ/제어자(modifier).md",
     "Untitled.canvas"
   ]
 }

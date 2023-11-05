@@ -1,0 +1,428 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "보기",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "비즈니스 시스템",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "특수임무용 시스템",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "임베디드 안전 필수 시스템템",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "8829a2ff-6269-431a-b169-1aae0bd8d096",
+        "index": 0,
+        "sourceId": null,
+        "creationTime": 1697355347625,
+        "lastEditedTime": 1697356141795,
+        "cells": [
+          {
+            "id": "63f40b0e-886f-49de-90ac-37fadd236a04",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "일반적인 응용 프로그램",
+            "tagIds": []
+          },
+          {
+            "id": "213c66dc-24cd-4f88-a737-676a17c30386",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 인터넷 사이트\n - 인트라넷 사이트\n - 재고 관리\n - 게임\n - 정보 관리 시스템\n - 급여 지급 시스템",
+            "tagIds": []
+          },
+          {
+            "id": "2436d205-1193-413d-9116-ad895beece7f",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 임베디드 소프트웨어\n - 게임\n - 인터넷 사이트\n - 패키지 소프트웨어\n - 소프트웨어 도구\n - 웹 서비스",
+            "tagIds": []
+          },
+          {
+            "id": "ace56509-4ede-4cf6-94d0-9cb0c2752fdd",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": " - 항공전자 소프트웨어\n - 임베디드 소프트웨어\n - 의료기기\n - 운영체제\n - 패키지 소프트웨어",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "e3535e60-f7da-487f-80aa-2e21a08f3112",
+        "index": 1,
+        "sourceId": null,
+        "creationTime": 1697355594546,
+        "lastEditedTime": 1697356168253,
+        "cells": [
+          {
+            "id": "d58ee0c4-35fb-434d-9229-6d515fae0487",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "수명 주기 모델",
+            "tagIds": []
+          },
+          {
+            "id": "c9333a93-d151-433f-8fda-c030b6517cd1",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 애자일 개발(익스트림 프로그래밍, 스크럼, 타임박스 개발 등)\n - 진화적 프로토타이핑",
+            "tagIds": []
+          },
+          {
+            "id": "80d28bd6-21e4-427b-a128-519db85f8f4a",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 단계적 출시\n - 진화적 출시\n - 나선형 개발",
+            "tagIds": []
+          },
+          {
+            "id": "6eeb4372-11db-409e-b5c6-f127388ff91c",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 단계별 출시\n- 나선형 개발\n- 진화적 출시",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "0802e275-1c46-4d5b-8bc6-dc6626652dde",
+        "index": 2,
+        "sourceId": null,
+        "creationTime": 1697355602792,
+        "lastEditedTime": 1697356201774,
+        "cells": [
+          {
+            "id": "d81a6a3e-708c-4cc3-a5b6-75521aad75f8",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "계획 및 관리",
+            "tagIds": []
+          },
+          {
+            "id": "1947d238-25af-486b-9b76-26fe5f680876",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 점증적 프로젝트 계획\n - 필요에 따라 테스트 및 QA 계획 수립\n - 비형식적인 변경 관리",
+            "tagIds": []
+          },
+          {
+            "id": "ecd4779f-eeef-402c-b432-da3171107d3b",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 기초적인 선행 계획 수립\n - 기초적인 테스트 계획 수립\n - 필요에 따라 QA 계획 수립\n - 형식적인 변경 관리",
+            "tagIds": []
+          },
+          {
+            "id": "597dc5a3-ee2d-493a-9880-d760d0cc8b97",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 광범위한 선행 계획 수립\n - 광범위한 테스트 계획 수립\n- 광범위한 QA 계획 수립\n- 엄격한 변경 관리리",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "0b25b338-ef41-4b20-b52b-432c0b402d8a",
+        "index": 3,
+        "sourceId": null,
+        "creationTime": 1697355608044,
+        "lastEditedTime": 1697356218766,
+        "cells": [
+          {
+            "id": "356ae796-a7cd-45fd-83d5-0eaec4e6bac0",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "요구사항",
+            "tagIds": []
+          },
+          {
+            "id": "4f7ec079-3c59-4fae-816c-52c64589adb7",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 비형식적인 요구사항 명세",
+            "tagIds": []
+          },
+          {
+            "id": "5a45a07d-119a-4538-9bfc-3da25e13dc8a",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 중간 수준의 정형화된 요구사항과 명세\n - 필요에 따라 요구사항 검토",
+            "tagIds": []
+          },
+          {
+            "id": "d68f612a-d982-4287-ad67-46999c10ec00",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 형식적인 요구사항 명세\n- 형식적인 요구사항 정밀 검사",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "663cebc1-5662-463b-9aac-2ab9e0f4f5fe",
+        "index": 4,
+        "sourceId": null,
+        "creationTime": 1697355613422,
+        "lastEditedTime": 1697356259047,
+        "cells": [
+          {
+            "id": "e950fe2d-d32b-4ab9-8181-57e75872f1f7",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "설계",
+            "tagIds": []
+          },
+          {
+            "id": "23072176-44a2-446a-9d81-378ecf48372f",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 설계 및 코드 작성의 병행",
+            "tagIds": []
+          },
+          {
+            "id": "995d9832-bd41-4301-8e60-b1efe9343749",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 아키텍처 설계\n - 비형식적인 상세 설계\n - 필요에 따라 설계 검토",
+            "tagIds": []
+          },
+          {
+            "id": "46f25c2a-d4b7-4f2d-8a18-833d5642150e",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 아키텍처 설계\n- 형식적인 아키텍처 정밀 검사\n- 형식적인 상세 설계\n- 형식적인 상셰 설계 정밀 검사",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "8847dd8a-6e36-40a9-b75a-2c87ca94400d",
+        "index": 5,
+        "sourceId": null,
+        "creationTime": 1697355617202,
+        "lastEditedTime": 1697356279086,
+        "cells": [
+          {
+            "id": "739f2537-a208-4926-80d5-ebf27c9842bb",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "구현",
+            "tagIds": []
+          },
+          {
+            "id": "9b5f7a1c-3289-4605-a908-e8824de70ced",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 페어 프로그래밍이나 개별적인 코드 작성\n- 비형식적인 체크인 절치 또는 체크인 절차를 사용하지 않음",
+            "tagIds": []
+          },
+          {
+            "id": "0a2ad83a-f1bb-4b79-b12d-f1471b009040",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 페어 프로그래밍이나 개벌적인 코드 작성\n - 비형식적인 체크인 절차\n - 필요에 따라 코드 검토",
+            "tagIds": []
+          },
+          {
+            "id": "a044092e-2d11-4360-a0e4-9ab9d5cd16fa",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 페어 프로그래밍이나 개별적인 코드 작성\n- 형식적인 체크인 검사\n- 형식적인 코드 정밀 검사",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "d89ebc63-9e08-4047-960d-1fc9ec0a3434",
+        "index": 6,
+        "sourceId": null,
+        "creationTime": 1697355620994,
+        "lastEditedTime": 1697356305321,
+        "cells": [
+          {
+            "id": "7cf7182b-70f7-4198-87a2-5538ef62fbff",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "테스트 및 QA",
+            "tagIds": []
+          },
+          {
+            "id": "3a0557ca-3f1d-4e63-a8c5-73001b65f901",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 개발자가 자신이 작성한 코드를 테스트\n - 테스트 우선 개발\n - 별도의 테스트 그룹에 의한 테스트 부재",
+            "tagIds": []
+          },
+          {
+            "id": "31d1d5c4-9d83-4c51-beba-d782565aada9",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 개발자가 자신이 작성한 코드를 테스트\n - 테스트 우선 개발발\n - 별도의 테스트 그룹",
+            "tagIds": []
+          },
+          {
+            "id": "94a3b765-d45c-4ac4-aca6-c15a0fd86a8e",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 개발자가 자신이 작성한 코드를 테스트\n- 테스트 우선 개발\n- 별도의 테스트 그룹\n- 별도의 QA 그룹",
+            "tagIds": []
+          }
+        ]
+      },
+      {
+        "id": "2fff3175-13ef-4f57-a4ce-8a87cf03f363",
+        "index": 7,
+        "sourceId": null,
+        "creationTime": 1697355627990,
+        "lastEditedTime": 1697356316117,
+        "cells": [
+          {
+            "id": "35b9ecb8-0807-4f11-a674-f8d2a19f6154",
+            "isExternalLink": false,
+            "columnId": "31342842-608f-4ab7-aef7-0d2504ca47fd",
+            "dateTime": null,
+            "content": "배포",
+            "tagIds": []
+          },
+          {
+            "id": "1269b6ca-b3e7-48b2-9c2f-059a1b10f593",
+            "isExternalLink": false,
+            "columnId": "d0db9e41-ef8b-44b6-80bf-040af0122805",
+            "dateTime": null,
+            "content": " - 비형식적인 배포 절차",
+            "tagIds": []
+          },
+          {
+            "id": "2c584a0c-520b-4e01-85f0-8be399741fe7",
+            "isExternalLink": false,
+            "columnId": "57e39cdb-bc42-4d18-baf9-9ca4fb272532",
+            "dateTime": null,
+            "content": " - 형식적인 배포 절차",
+            "tagIds": []
+          },
+          {
+            "id": "aa9bca46-210f-4d65-bf51-e1720260b37f",
+            "isExternalLink": false,
+            "columnId": "5215a9fb-3cad-4f83-b05f-42c44d81e99c",
+            "dateTime": null,
+            "content": "- 형식적인 배포 절차",
+            "tagIds": []
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.7.2"
+}
