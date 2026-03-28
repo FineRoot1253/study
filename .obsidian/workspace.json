@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "379cadcfbd558c4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bdf5d74b9a6fb8fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "3a59439eec422b3e",
         "type": "tabs",
         "children": [
@@ -26,27 +12,27 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           },
           {
             "id": "c26ef6c2f7a70ed5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bafc3647f1791888",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "방송통신대학교 🎓/게임-애니메이션-VR의 이해/1. 서론.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 서론"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +51,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -75,13 +64,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unique_ptr",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -89,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -97,14 +90,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 283.5
   },
   "right": {
     "id": "38e52d7ffbf6ca1d",
@@ -127,7 +122,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -138,7 +135,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -146,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           },
           {
@@ -156,8 +157,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -165,7 +170,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
             }
           },
           {
@@ -173,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -181,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -189,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -197,76 +214,79 @@
             "type": "leaf",
             "state": {
               "type": "mathpad-view",
-              "state": {}
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mathpad:Open Mathpad": false
+      "mathpad:Open Mathpad": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e62db76117f201e",
+  "active": "fbe8433925380aa4",
   "lastOpenFiles": [
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/5.미적분의 기본원리.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/4. 정적분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/3. 부정적분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2. 미분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/1. 극한.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/Untitled.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/4.미적분의 기본원리.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/3. 정적분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2. 부정적분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/2..md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분/1. 미분.md",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/미분적분",
-    "Mathematics/2. 고등수학/3학년/수학 Ⅱ/Untitled",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-416E-8DA1-23-0.jpeg",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-439B-BF7C-0D-0.jpeg",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4438-8A29-18-0.jpeg",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-41C9-8224-6C-0.jpeg",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4A6A-8BD3-1C-0.jpeg",
-    "방송통신대학교/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4718-BF4A-1D-0.jpeg",
-    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4718-BF4A-1D-0.jpeg",
-    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4E9B-BB97-60-0.jpeg",
-    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4D8D-BD24-46-0.jpeg",
-    "방송통신대학교/선형대수/2. 벡터공간과 선형변환/JPEG 이미지-4D67-96BB-29-0.jpeg",
-    "방송통신대학교/데이터베이스 시스템/3. 관계형 모델.md",
-    "방송통신대학교/데이터베이스 시스템/2. 데이터베이스 모델링.md",
-    "Computer Science/Data Structure with C++ language/8. 트리.md",
-    "Languages/JAVA/자바의 정석/9. java.lang 패키지와 유용한 클래스/java.lang 패키지와 유용한 클래스.md",
-    "Languages/JAVA/자바의 정석/11. 컬렉션 프레임워크/컬렉션 프레임워크.md",
-    "Languages/JAVA/자바의 정석/4. 조건문과 반복문/조건문과 반복문.md",
-    "Languages/JAVA/자바의 정석/12. 제네릭스, 열거형, 애너테이션/제네릭스, 열거형, 애너테이션.md",
-    "Languages/JAVA/자바의 정석/15. 입출력/입출력 (IO).md",
-    "Languages/JAVA/자바의 정석/8. 예외 처리/예외 처리.md",
-    "Languages/JAVA/자바의 정석/13. 쓰레드/스레드.md",
-    "Languages/JAVA/자바의 정석/14. 람다와 스트림/람다와 스트림.md",
-    "Languages/JAVA/자바의 정석/10. 날짜와 시간 & 형식화/날짜, 시간, 형식화.md",
-    "Languages/JAVA/자바의 정석/16. 네트워킹/네트워킹.md",
-    "Languages/JAVA/자바의 정석/16. 네트워킹",
-    "Languages/JAVA/자바의 정석/Untitled",
-    "Languages/JAVA/자바의 정석/15. 입출력",
-    "Languages/JAVA/자바의 정석/14. 람다와 스트림",
-    "Languages/JAVA/자바의 정석/13. 쓰레드",
-    "Languages/JAVA/자바의 정석/12. 제네릭스, 열거형, 애너테이션",
-    "Languages/JAVA/자바의 정석/11. 컬렉션 프레임워크",
-    "Languages/JAVA/자바의 정석/10. 날짜와 시간 & 형식화",
-    "Languages/JAVA/자바의 정석/7. 객체지향 프로그래밍 Ⅱ/추상클래스.md",
-    "Languages/JAVA/자바의 정석/7. 객체지향 프로그래밍 Ⅱ/제어자(modifier).md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/출수과제.md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/스크린샷 2024-03-10 오후 6.15.40.png",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/1. 서론.md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/스크린샷 2024-03-10 오후 6.26.09.png",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/스크린샷 2024-03-10 오후 6.17.49.png",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/스크린샷 2024-03-10 오후 6.20.59.png",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/스크린샷 2024-03-10 오후 6.22.40.png",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/게임애니메이션 vr 의 이해.pptx",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/4. 애니메이션의 이해.md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/3. VR의 이해.md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/2. 게임의 이해.md",
+    "Development 🛠️/Languages/JAVA/자바의 정석/7. 객체지향 프로그래밍 Ⅱ/인터페이스.md",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해/Untitled",
+    "방송통신대학교 🎓/게임-애니메이션-VR의 이해",
+    "Development 🛠️/Backend/Resource/Spring/Spring.md",
+    "방송통신대학교 🎓/컴퓨터 구조/3. 컴퓨터 명령어/컴퓨터 명령어.md",
+    "방송통신대학교 🎓/컴퓨터 구조/4. 처리장치/처리장치.md",
+    "방송통신대학교 🎓/컴퓨터 구조/5. 제어장치/제어장치.md",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/14. 내적공간과 직교행렬.md",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/15. 직교화과정과 최소자승법.md",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/13. 행렬의 대각화.md",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/12. 고유값과 고유벡터.md",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4718-BF4A-1D-0.jpeg",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-4438-8A29-18-0.jpeg",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-479B-BA76-5D-0.jpeg",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-439B-BF7C-0D-0.jpeg",
+    "방송통신대학교 🎓/선형대수/3. 고유값 문제와 벡터의 직교성/JPEG 이미지-416E-8DA1-23-0.jpeg",
+    "Software Architecture 📐/Agile/스크럼 계획 수립 및 추정.md",
+    "방송통신대학교 🎓/선형대수/1. 일차연립방정식과 행렬/1. 일차연립방정식.md",
+    "Software Architecture 📐/Agile/스크럼.md",
+    "일기장 🖋️/2024/01_03.md",
+    "일기장 🖋️/2024/Untitled.md",
+    "일기장 🖋️/2023/일기장.md",
+    "일기장 🖋️/2023/계획.md",
+    "일기장 🖋️/2023/spring one tour 2023_06_28.md",
+    "일기장 🖋️/2023/[회고] 우테캠 Pro 복기.md",
+    "일기장 🖋️/2023/Untitled",
+    "일기장 🖋️/2023",
+    "일기장 🖋️/archive 24년 이전/Untitled",
+    "일기장 🖋️/2024",
+    "일기장 🖋️/archive 24년 이전/일기장.md",
+    "일기장 🖋️/archive 24년 이전/계획.md",
+    "일기장 🖋️/archive 24년 이전",
+    "일기장 🖋️/Untitled",
+    "일기장 🖋️/archive",
     "Untitled.canvas"
   ]
 }

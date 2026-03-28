@@ -5,5 +5,8 @@
   "obsidian-chartsview-plugin",
   "mathpad",
   "obsidian-smarter-md-hotkeys",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "webpage-html-export"
 ]

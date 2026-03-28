@@ -12,7 +12,7 @@
 
 [Languages](2.%20Area%20🔥/Development%20🛠️/Languages/Readme.md)
 
-[Infrastructure](2.%20Area%20🔥/Development%20🛠️/Infrastructure/Readme.md)
+[Infrastructure](1.%20Project%20🚀/go-talk%20🗣️/Readme.md)
 
 [Database](2.%20Area%20🔥/Database%20💾/Readme.md)
 
