@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "블로그 일기장 🖋️/2025/3월 28일 오늘의 일기.md",
+                "file": "블로그 일기장 🖋️/2025/3월 29일 오늘의 일기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3월 28일 오늘의 일기"
+              "title": "3월 29일 오늘의 일기"
+            }
+          },
+          {
+            "id": "cdfd1770eae64224",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블로그 일기장 🖋️/2025/3월 28일 오늘의 일기.md",
+                "file": "블로그 일기장 🖋️/2025/3월 29일 오늘의 일기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3월 28일 오늘의 일기 의 백링크"
+              "title": "3월 29일 오늘의 일기 의 백링크"
             }
           },
           {
@@ -123,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블로그 일기장 🖋️/2025/3월 28일 오늘의 일기.md",
+                "file": "블로그 일기장 🖋️/2025/3월 29일 오늘의 일기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "3월 28일 오늘의 일기 의 나가는 링크"
+              "title": "3월 29일 오늘의 일기 의 나가는 링크"
             }
           },
           {
@@ -162,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "블로그 일기장 🖋️/2025/3월 28일 오늘의 일기.md",
+                "file": "블로그 일기장 🖋️/2025/3월 29일 오늘의 일기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3월 28일 오늘의 일기 의 개요"
+              "title": "3월 29일 오늘의 일기 의 개요"
             }
           },
           {
@@ -235,6 +245,7 @@
   "active": "c26ef6c2f7a70ed5",
   "lastOpenFiles": [
     "블로그 일기장 🖋️/2025/3월 28일 오늘의 일기.md",
+    "블로그 일기장 🖋️/2025/3월 29일 오늘의 일기.md",
     "블로그 일기장 🖋️/2025/쿼리 꿀팁1(COUNT(*)).md",
     "블로그 일기장 🖋️/2025/스프링 시큐리티와 테스트는 어떻게 구성할까.md",
     "블로그 일기장 🖋️/2025/데이터가 너무 적소. 배치를 합시다.md",
@@ -272,7 +283,6 @@
     "일기장 🖋️/2024/Untitled.md",
     "일기장 🖋️/2023/일기장.md",
     "일기장 🖋️/2023/계획.md",
-    "일기장 🖋️/2023/spring one tour 2023_06_28.md",
     "일기장 🖋️/2023/Untitled",
     "일기장 🖋️/2023",
     "일기장 🖋️/archive 24년 이전/Untitled",
