@@ -15,7 +15,7 @@
 
     - **BeanFactory & ApplicationContext [스프링 컨테이너]**
         - **BeanFactory**를 통해 각종 빈들이 컨테이너에  등록이 된다.
-            - 이를 상속하여 좀더 다양한 기능을 구현하고 있는 인터페이스가 **ApplicationContext**이다.
+            - 이를 상속하여 좀 더 다양한 기능을 구현하고 있는 인터페이스가 **ApplicationContext**이다.
             - 개발자는 **ApplicationContext를 다시 구현하는 구체 클래스**들을 사용한다.
                 - **AnnotationConfigApplicationContext**
                     - 자바코드(팩토리메서드, 팩토리 클래스)를 직접 읽어들여 구현하는 ApplicationContext
